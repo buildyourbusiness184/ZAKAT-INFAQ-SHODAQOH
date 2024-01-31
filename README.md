@@ -1,6 +1,6 @@
-# Sistem Informasi dan Manajemen Masjid Al-Ikhlas
+# Sistem Informasi dan Manajemen Musholah
 ## Information
-Sistem Informasi dan Manajemen Masjid Al-Ikhlas merupakan website yang berfungsi untuk mengelola semua informasi dan kegiatan yang ada di masjid. Seperti mengelola keuangan, donasi, uang masuk dan keluar, jadwal kegiatan, jadwal sholat dan lainnya. 
+Sistem Informasi dan Manajemen Musholah merupakan website yang berfungsi untuk mengelola semua informasi dan kegiatan yang ada di masjid. Seperti mengelola keuangan, donasi, uang masuk dan keluar, jadwal kegiatan, jadwal sholat dan lainnya. 
 
 ## Prerequisites
 * WAMPP/XAMPP Server
